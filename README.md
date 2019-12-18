@@ -12,3 +12,10 @@ pip install -r requirements.txt
 ```bash
 python cde.py <Chinese text you need extract datetime from.>
 ```
+
+---
+## Project tree  
+    .
+    ├── README.md                   # 读我！
+    ├── cde.py                      # 看我！
+    └── requirements.txt            # 装我！
